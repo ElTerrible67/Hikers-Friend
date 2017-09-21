@@ -1,0 +1,8 @@
+<resources>
+
+    <string name="app_name">Hikers Friend</string>
+    <string name="hiker_s_friend">Hiker\'s Friend</string>
+    <string name="latitude_">Latitude:</string>
+    <string name="longitude_">Longitude: </string>
+    <string name="check_the_weather">Check The Weather</string>
+</resources>

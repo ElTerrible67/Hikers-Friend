@@ -1,0 +1,7 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="app_name">Wanderer Freund</string>
+    <string name="hiker_s_friend">Wanderer Freund</string>
+    <string name="latitude_">Breite</string>
+    <string name="longitude_">Länge</string>
+</resources>
